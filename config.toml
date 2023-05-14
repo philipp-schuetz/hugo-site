@@ -1,0 +1,97 @@
+baseURL = 'http://blog.philippschuetz.de'
+title = 'Philipp Schütz'
+copyright = 'Philipp Schütz'
+theme = 'pugo'
+enableEmoji = true
+enableRobotsTXT = true
+
+
+# Choose one of emacs, trac or perldoc
+pygmentsStyle = "monokai"
+
+[params]
+  avatarURL = "/images/avatar-q.webp"
+  AvatarAltText = "avatar"
+  avatarSize = "size-m"
+
+  socialIcons = [
+    {name = "github", url = "https://github.com/philipp-schuetz"},
+    {name = "coffee", url = "https://www.buymeacoffee.com/"},
+    {name = "mail", url = "mailto:mail@philippschuetz.com"},
+    {name = "rss", url = "/index.xml"}
+  ]
+  metaKeywords = ["blog", "pugo", "hugo"]
+
+
+defaultContentLanguage = 'en'
+
+
+[Languages]
+  [Languages.en]
+    languageCode = 'en'
+    languageName = 'English'
+    weight = 1
+
+    [[Languages.en.menu.main]]
+      name = 'Home'
+      pre = '<img class="svg-inject" src="/svg/icons/home.svg" />'
+      url = "/"
+      weight = 1
+      
+    [[Languages.en.menu.main]]
+      name = 'Posts'
+      pre = '<img class="svg-inject" src="/svg/icons/book.svg" />'
+      url = "/posts/"
+      weight = 2
+
+    [[Languages.en.menu.main]]
+      name = 'Projects'
+      pre = '<img class="svg-inject" src="/svg/icons/code.svg" />'
+      url = "/projects/"
+      weight = 3
+
+    [[Languages.en.menu.main]]
+      name = 'Tags'
+      pre = '<img class="svg-inject" src="/svg/icons/tag.svg" />'
+      url = "/tags/"
+      weight = 4
+
+  [Languages.de]
+    languageCode = 'de'
+    languageName = 'Deutsch'
+    weight = 2
+
+    [[Languages.de.menu.main]]
+      name = 'Start'
+      pre = '<img class="svg-inject" src="/svg/icons/home.svg" />'
+      url = "/de/"
+      weight = 1
+      
+    [[Languages.de.menu.main]]
+      name = 'Einträge'
+      pre = '<img class="svg-inject" src="/svg/icons/book.svg" />'
+      url = "/de/posts/"
+      weight = 2
+
+    [[Languages.de.menu.main]]
+      name = 'Projekte'
+      pre = '<img class="svg-inject" src="/svg/icons/code.svg" />'
+      url = "/de/projects/"
+      weight = 3
+
+    [[Languages.de.menu.main]]
+      name = 'Themen'
+      pre = '<img class="svg-inject" src="/svg/icons/tag.svg" />'
+      url = "/de/tags/"
+      weight = 4
+
+
+[permalinks]
+  posts = "/:slug/"
+
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 4
+    ordered = false
