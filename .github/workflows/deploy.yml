@@ -23,7 +23,7 @@ jobs:
         run: hugo --minify
 
       - name: Deploy over FTP
-        uses: SamKirkland/FTP-Deploy-Action@3.2.0
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
             server: blog.philippschuetz.de
             username: ${{ secrets.FTP_USERNAME }}
