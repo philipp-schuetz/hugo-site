@@ -20,7 +20,7 @@ jobs:
             hugo-version: latest
       
       - name: Get Theme
-        run: git clone https://github.com/philipp-schuetz/pugo /home/runner/work/hugo-site/hugo-site/themes
+        run: git clone https://github.com/philipp-schuetz/pugo /home/runner/work/hugo-site/hugo-site/themes/pugo
         
       - name: Build
         run: hugo --minify
