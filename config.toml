@@ -1,4 +1,4 @@
-baseURL = 'http://blog.philippschuetz.de'
+baseURL = 'http://philippschuetz.de'
 title = 'Philipp Schütz'
 copyright = 'Philipp Schütz'
 theme = 'pugo'
