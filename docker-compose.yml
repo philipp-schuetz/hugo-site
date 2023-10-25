@@ -1,0 +1,11 @@
+version: '0.0.1'
+services:
+  hugo-site:
+    image: hugo-site:latest
+    container_name: hugo-site
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 8004:8080
+    restart: unless-stopped
