@@ -1,2 +1,2 @@
-git clone https://github.com/philipp-schuetz/hugo-site themes/pugo
+git clone https://github.com/philipp-schuetz/pugo themes/pugo
 hugo --minify
