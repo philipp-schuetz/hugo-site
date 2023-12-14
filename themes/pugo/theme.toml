@@ -1,9 +1,9 @@
 name = "pugo"
 
 license = "GNU GPLv3"
-licenselink = "https://github.com/philipp-schuetz/pugo/blob/main/LICENSE"
+licenselink = "https://github.com/philipp-schuetz/hugo-site/blob/main/themes/pugo/LICENSE"
 
-homepage = "https://github.com/philipp-schuetz/pugo"
+homepage = "https://github.com/philipp-schuetz/hugo-site/tree/main/themes/pugo"
 demosite = "https://philippschuetz.com"
 
 tags = ["blog", "minimal", "dark", "light", "responsive", "personal", "portfolio"]
