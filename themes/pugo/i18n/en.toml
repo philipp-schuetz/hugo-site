@@ -1,0 +1,14 @@
+[recent]
+    other = 'Recent'
+[error404]
+    other = 'This page does not exist'
+[nothing]
+    other = 'Nothing to see here, yet'
+[previous]
+    other = 'Previous'
+[next]
+    other = 'Next'
+[imprint]
+    other = 'Imprint'
+[privacy-policy]
+    other = 'Privacy Policy'

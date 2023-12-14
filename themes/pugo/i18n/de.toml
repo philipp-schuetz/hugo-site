@@ -1,0 +1,14 @@
+[recent]
+    other = 'Letzte'
+[error404]
+    other = 'Die Seite wurde nicht gefunden'
+[nothing]
+    other = 'Hier gibt es noch nichts zu sehen'
+[previous]
+    other = 'Vorheriger Eintrag'
+[next]
+    other = 'Nächster Eintrag'
+[imprint]
+    other = 'Impressum'
+[privacy-policy]
+    other = 'Datenschutzerklärung'

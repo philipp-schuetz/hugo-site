@@ -1,0 +1,17 @@
+name = "pugo"
+
+license = "GNU GPLv3"
+licenselink = "https://github.com/philipp-schuetz/pugo/blob/main/LICENSE"
+
+homepage = "https://github.com/philipp-schuetz/pugo"
+demosite = "https://philippschuetz.com"
+
+tags = ["blog", "minimal", "dark", "light", "responsive", "personal", "portfolio"]
+
+features = ["Blog", "Responsive", "Minimal", "Clean", "Simple", "SEO", "Fast", "Dark", "Light"]
+
+authors = [
+  {name = "Philipp Schütz", homepage = "https://philippschuetz.com"},
+]
+
+min_version = "0.111.3"
