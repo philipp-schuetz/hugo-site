@@ -16,7 +16,6 @@ pygmentsStyle = "monokai"
 
   socialIcons = [
     {name = "github", url = "https://github.com/philipp-schuetz"},
-    {name = "coffee", url = "https://www.buymeacoffee.com/"},
     {name = "mail", url = "mailto:mail@philippschuetz.com"},
     {name = "rss", url = "/index.xml"}
   ]
