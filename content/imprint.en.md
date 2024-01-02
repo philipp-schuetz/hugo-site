@@ -4,10 +4,8 @@ slug: 'imprint'
 showTableOfContents: true
 ---
 
-Impressum
-=========
 
-Diensteanbieter
+Service provider
 ---------------
 
 Philipp Schütz
@@ -16,20 +14,21 @@ Am Buchenberg 28
 
 13467 Berlin
 
-Deutschland
+Germany
 
-Kontaktmöglichkeiten
+Contact information
 --------------------
 
-E-Mail-Adresse:
+E-mail address:
 
 [mail@philippschuetz.com](mailto:mail@philippschuetz.com)
 
-Journalistisch-redaktionelle Angebote
+Journalistic-editorial offers
 -------------------------------------
 
-Inhaltlich verantwortlich:
+Responsible for content:
 
 Philipp Schütz
 
-[Erstellt mit kostenlosem Datenschutz-Generator.de von Dr. Thomas Schwenke](https://datenschutz-generator.de/ "Rechtstext von Dr. Schwenke - für weitere Informationen bitte anklicken.")
+[Created with free Datenschutz-Generator.de by Dr. Thomas Schwenke](https://datenschutz-generator.de/ "Legal text by Dr. Schwenke - please click for more information.")
+[Translated with deepl.com](https://www.deepl.com/translator "Free translation with deepl.com")

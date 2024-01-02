@@ -4,8 +4,6 @@ slug: 'imprint'
 showTableOfContents: true
 ---
 
-Impressum
-=========
 
 Diensteanbieter
 ---------------
