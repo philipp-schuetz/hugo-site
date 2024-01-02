@@ -4,23 +4,7 @@ slug: 'privacy-policy'
 showTableOfContents: true
 ---
 
-Datenschutzerklärung
-====================
-
 Stand: 18. Juni 2023
-
-Inhaltsübersicht
-----------------
-
-*   [Verantwortlicher](#m3)
-*   [Übersicht der Verarbeitungen](#mOverview)
-*   [Maßgebliche Rechtsgrundlagen](#m13)
-*   [Sicherheitsmaßnahmen](#m27)
-*   [Löschung von Daten](#m12)
-*   [Bereitstellung des Onlineangebotes und Webhosting](#m225)
-*   [Blogs und Publikationsmedien](#m104)
-*   [Änderung und Aktualisierung der Datenschutzerklärung](#m15)
-*   [Begriffsdefinitionen](#m42)
 
 Verantwortlicher
 ----------------
@@ -63,7 +47,7 @@ Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwec
 
 Im Folgenden erhalten Sie eine Übersicht der Rechtsgrundlagen der DSGVO, auf deren Basis wir personenbezogene Daten verarbeiten. Bitte nehmen Sie zur Kenntnis, dass neben den Regelungen der DSGVO nationale Datenschutzvorgaben in Ihrem bzw. unserem Wohn- oder Sitzland gelten können. Sollten ferner im Einzelfall speziellere Rechtsgrundlagen maßgeblich sein, teilen wir Ihnen diese in der Datenschutzerklärung mit.
 
-*   **Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO)** - Die Verarbeitung ist zur Wahrung der berechtigten Interessen des Verantwortlichen oder eines Dritten erforderlich, sofern nicht die Interessen oder Grundrechte und Grundfreiheiten der betroffenen Person, die den Schutz personenbezogener Daten erfordern, überwiegen.
+*   **Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f DSGVO)** - Die Verarbeitung ist zur Wahrung der berechtigten Interessen des Verantwortlichen oder eines Dritten erforderlich, sofern nicht die Interessen oder Grundrechte und Grundfreiheiten der betroffenen Person, die den Schutz personenbezogener Daten erfordern, überwiegen.
 
 Zusätzlich zu den Datenschutzregelungen der DSGVO gelten nationale Regelungen zum Datenschutz in Deutschland. Hierzu gehört insbesondere das Gesetz zum Schutz vor Missbrauch personenbezogener Daten bei der Datenverarbeitung (Bundesdatenschutzgesetz – BDSG). Das BDSG enthält insbesondere Spezialregelungen zum Recht auf Auskunft, zum Recht auf Löschung, zum Widerspruchsrecht, zur Verarbeitung besonderer Kategorien personenbezogener Daten, zur Verarbeitung für andere Zwecke und zur Übermittlung sowie automatisierten Entscheidungsfindung im Einzelfall einschließlich Profiling. Ferner können Landesdatenschutzgesetze der einzelnen Bundesländer zur Anwendung gelangen.
 
@@ -91,12 +75,12 @@ Wir verarbeiten die Daten der Nutzer, um ihnen unsere Online-Dienste zur Verfüg
 *   **Verarbeitete Datenarten:** Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten); Meta-, Kommunikations- und Verfahrensdaten (z. B. IP-Adressen, Zeitangaben, Identifikationsnummern, Einwilligungsstatus).
 *   **Betroffene Personen:** Nutzer (z.B. Webseitenbesucher, Nutzer von Onlinediensten).
 *   **Zwecke der Verarbeitung:** Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit; Informationstechnische Infrastruktur (Betrieb und Bereitstellung von Informationssystemen und technischen Geräten (Computer, Server etc.).); Sicherheitsmaßnahmen.
-*   **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+*   **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f DSGVO).
 
 **Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:**
 
-*   **Erhebung von Zugriffsdaten und Logfiles:** Der Zugriff auf unser Onlineangebot wird in Form von so genannten "Server-Logfiles" protokolliert. Zu den Serverlogfiles können die Adresse und Name der abgerufenen Webseiten und Dateien, Datum und Uhrzeit des Abrufs, übertragene Datenmengen, Meldung über erfolgreichen Abruf, Browsertyp nebst Version, das Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte Seite) und im Regelfall IP-Adressen und der anfragende Provider gehören. Die Serverlogfiles können zum einen zu Zwecken der Sicherheit eingesetzt werden, z.B., um eine Überlastung der Server zu vermeiden (insbesondere im Fall von missbräuchlichen Angriffen, sogenannten DDoS-Attacken) und zum anderen, um die Auslastung der Server und ihre Stabilität sicherzustellen; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Löschung von Daten:** Logfile-Informationen werden für die Dauer von maximal 30 Tagen gespeichert und danach gelöscht oder anonymisiert. Daten, deren weitere Aufbewahrung zu Beweiszwecken erforderlich ist, sind bis zur endgültigen Klärung des jeweiligen Vorfalls von der Löschung ausgenommen.
-*   **netcup:** Leistungen auf dem Gebiet der Bereitstellung von informationstechnischer Infrastruktur und verbundenen Dienstleistungen (z.B. Speicherplatz und/oder Rechenkapazitäten); **Dienstanbieter:** netcup GmbH, Daimlerstraße 25, D-76185 Karlsruhe, Deutschland; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://www.netcup.de/](https://www.netcup.de/); **Datenschutzerklärung:** [https://www.netcup.de/kontakt/datenschutzerklaerung.php](https://www.netcup.de/kontakt/datenschutzerklaerung.php); **Auftragsverarbeitungsvertrag:** [https://www.netcup-wiki.de/wiki/Zusatzvereinbarung\_zur\_Auftragsverarbeitung](https://www.netcup-wiki.de/wiki/Zusatzvereinbarung_zur_Auftragsverarbeitung).
+*   **Erhebung von Zugriffsdaten und Logfiles:** Der Zugriff auf unser Onlineangebot wird in Form von so genannten "Server-Logfiles" protokolliert. Zu den Serverlogfiles können die Adresse und Name der abgerufenen Webseiten und Dateien, Datum und Uhrzeit des Abrufs, übertragene Datenmengen, Meldung über erfolgreichen Abruf, Browsertyp nebst Version, das Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte Seite) und im Regelfall IP-Adressen und der anfragende Provider gehören. Die Serverlogfiles können zum einen zu Zwecken der Sicherheit eingesetzt werden, z.B., um eine Überlastung der Server zu vermeiden (insbesondere im Fall von missbräuchlichen Angriffen, sogenannten DDoS-Attacken) und zum anderen, um die Auslastung der Server und ihre Stabilität sicherzustellen; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f DSGVO); **Löschung von Daten:** Logfile-Informationen werden für die Dauer von maximal 30 Tagen gespeichert und danach gelöscht oder anonymisiert. Daten, deren weitere Aufbewahrung zu Beweiszwecken erforderlich ist, sind bis zur endgültigen Klärung des jeweiligen Vorfalls von der Löschung ausgenommen.
+*   **netcup:** Leistungen auf dem Gebiet der Bereitstellung von informationstechnischer Infrastruktur und verbundenen Dienstleistungen (z.B. Speicherplatz und/oder Rechenkapazitäten); **Dienstanbieter:** netcup GmbH, Daimlerstraße 25, D-76185 Karlsruhe, Deutschland; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f DSGVO); **Website:** [https://www.netcup.de/](https://www.netcup.de/); **Datenschutzerklärung:** [https://www.netcup.de/kontakt/datenschutzerklaerung.php](https://www.netcup.de/kontakt/datenschutzerklaerung.php); **Auftragsverarbeitungsvertrag:** [https://www.netcup-wiki.de/wiki/Zusatzvereinbarung\_zur\_Auftragsverarbeitung](https://www.netcup-wiki.de/wiki/Zusatzvereinbarung_zur_Auftragsverarbeitung).
 
 Blogs und Publikationsmedien
 ----------------------------
@@ -106,7 +90,7 @@ Wir nutzen Blogs oder vergleichbare Mittel der Onlinekommunikation und Publikati
 *   **Verarbeitete Datenarten:** Bestandsdaten (z.B. Namen, Adressen); Kontaktdaten (z.B. E-Mail, Telefonnummern); Inhaltsdaten (z.B. Eingaben in Onlineformularen); Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten); Meta-, Kommunikations- und Verfahrensdaten (z. B. IP-Adressen, Zeitangaben, Identifikationsnummern, Einwilligungsstatus).
 *   **Betroffene Personen:** Nutzer (z.B. Webseitenbesucher, Nutzer von Onlinediensten).
 *   **Zwecke der Verarbeitung:** Erbringung vertraglicher Leistungen und Kundenservice; Feedback (z.B. Sammeln von Feedback via Online-Formular); Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit.
-*   **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+*   **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f DSGVO).
 
 Änderung und Aktualisierung der Datenschutzerklärung
 ----------------------------------------------------
@@ -120,8 +104,8 @@ Begriffsdefinitionen
 
 In diesem Abschnitt erhalten Sie eine Übersicht über die in dieser Datenschutzerklärung verwendeten Begrifflichkeiten. Soweit die Begrifflichkeiten gesetzlich definiert sind, gelten deren gesetzliche Definitionen. Die nachfolgenden Erläuterungen sollen dagegen vor allem dem Verständnis dienen.
 
-*   **Personenbezogene Daten:** "Personenbezogene Daten“ sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (im Folgenden "betroffene Person“) beziehen; als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung (z.B. Cookie) oder zu einem oder mehreren besonderen Merkmalen identifiziert werden kann, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind.
-*   **Verantwortlicher:** Als "Verantwortlicher“ wird die natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet, bezeichnet.
+*   **Personenbezogene Daten:** "Personenbezogene Daten" sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (im Folgenden "betroffene Person") beziehen; als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung (z.B. Cookie) oder zu einem oder mehreren besonderen Merkmalen identifiziert werden kann, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind.
+*   **Verantwortlicher:** Als "Verantwortlicher" wird die natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet, bezeichnet.
 *   **Verarbeitung:** "Verarbeitung" ist jeder mit oder ohne Hilfe automatisierter Verfahren ausgeführte Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten. Der Begriff reicht weit und umfasst praktisch jeden Umgang mit Daten, sei es das Erheben, das Auswerten, das Speichern, das Übermitteln oder das Löschen.
 
 [Erstellt mit kostenlosem Datenschutz-Generator.de von Dr. Thomas Schwenke](https://datenschutz-generator.de/ "Rechtstext von Dr. Schwenke - für weitere Informationen bitte anklicken.")
