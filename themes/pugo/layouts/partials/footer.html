@@ -1,7 +1,7 @@
 <footer class="footer">
     <span>
         &copy; {{ now.Year }} {{ .Site.Copyright }} |
-        <a href="{{ "imprint" | relLangURL }}">{{ i18n "imprint" . }}</a> |
-        <a href="{{ "privacy-policy" | relLangURL }}">{{ i18n "privacy-policy" . }}</a>
+        <a href="{{ absLangURL "imprint" }}">{{ i18n "imprint" . }}</a> |
+        <a href="{{ absLangURL "privacy-policy" }}">{{ i18n "privacy-policy" . }}</a>
     </span>
 </footer>
