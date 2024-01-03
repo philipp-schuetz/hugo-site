@@ -1,4 +1,5 @@
-FROM nginx:alpine
+FROM debian:bookworm-slim
+RUN apt update && apt install -y hugo
 WORKDIR /app
-COPY public/ ./static
-COPY ./nginx.conf /etc/nginx/nginx.conf
+COPY . .
+CMD hugo serve --minify -p 8004 --bind "0.0.0.0" -b "https://philippschuetz.com/" --appendPort=false
