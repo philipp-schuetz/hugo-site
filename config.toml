@@ -20,6 +20,7 @@ pygmentsStyle = "monokai"
     {name = "rss", url = "/index.xml"}
   ]
   metaKeywords = ["blog", "pugo", "hugo"]
+  description = "Philipp's personal website/blog."
 
 
 defaultContentLanguage = 'en'
